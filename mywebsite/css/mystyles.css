@@ -1,0 +1,63 @@
+.common{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    background-color: rgb(237, 192, 155);
+    height: 90px;
+    line-height: 80px;
+}
+
+h1{
+    color:rgb(49, 45, 40);
+    font-size: 3em;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 2em;
+    color: rgb(49, 45, 40));
+}
+
+h3{
+    text-align: center;
+    font-size: 1em;
+    color: rgb(49, 45, 40);
+}
+
+h4{
+    text-align: center;
+    font-size: 2em;
+    color: rgb(49, 45, 40);
+}
+
+h5{
+    text-align: center;
+    font-size: 1em;
+    color: rgb(49, 45, 40);
+}
+
+h6{
+    text-align: center;
+    font-size: 2em;
+    color: rgb(49, 45, 40);
+}
+
+body{
+    background-color: rgb(245, 224, 195);
+    margin: 8px;
+}
+
+ul{
+    text-align: left;
+    display: inline-block;
+}
+
+ol{
+    text-align: left;
+    display: inline-block;
+    list-style-position: inside;
+}
+
